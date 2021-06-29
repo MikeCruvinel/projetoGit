@@ -2,4 +2,6 @@
 ## Projeto de aprendizado Git - Curso FullStack
 
 faça sua inscrição agora mesmo!! :) 
+
+Atualização teste 2
     
